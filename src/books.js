@@ -1,5 +1,3 @@
-const books = [
-  { id: 1 }
-]
+const books = [];
 
-module.exports = books
+module.exports = books;
